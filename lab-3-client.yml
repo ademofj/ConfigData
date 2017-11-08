@@ -1,2 +1,4 @@
 ---
-lucky-word: IBM
+wordConfig:
+  luckyWord:"IBM"
+  preamble:"The lucky word is"
